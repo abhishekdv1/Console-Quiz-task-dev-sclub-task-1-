@@ -12,3 +12,7 @@ A basic quiz console app that uses the fundamentals of dart language. The concep
 - User can take the quiz again on another topic or same question until he exits the quiz console app by giving 3 as input.
 
 ## Screenshots:
+
+![Terminal Screenshot](Screenshots/firstph.png)
+![](Screenshots/secondph.png)
+![](Screenshots/thirdph.png)
